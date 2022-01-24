@@ -5,6 +5,12 @@ h1{
 	font-size: 2em; 
 	font-weight: bold;
 }
+title{
+    color: silver;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
 .active{
 	background: white;
     text-transform: uppercase;
