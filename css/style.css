@@ -50,6 +50,9 @@ li {
     height: 100px;
   }
 
-  .image{
-      background-position: center;
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
