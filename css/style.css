@@ -22,15 +22,6 @@ title{
     font-weight: 300;
     text-transform: uppercase;
 }
-.active{
-	background: white;
-    border-radius: 5px;
-    text-transform: uppercase;
-	text-align: center;
-}
-.a{
-
-}
 
 
 ul {
@@ -48,10 +39,11 @@ li {
     margin: 20px;
     width: 80px;  
   }
+  
   li:hover {
     color: #6fd5fa;
   }
-  a:visited{color:#020308}
+
   footer {
     color: #fff;
     background-color: #3ccbff;
