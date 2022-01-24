@@ -18,10 +18,15 @@ title{
 	text-align: center;
 }
 a:visited{color:#0000FF}
+ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+  }
 
 li {
     color: #FFF;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     font-size: 16px;
     font-weight: 300;
     text-transform: uppercase;
@@ -30,4 +35,9 @@ li {
   }
   li:hover {
     color: #6fd5fa;
+  }
+  footer {
+    background-color: #DBE9EE;
+    text-align: center;
+    height: 100px;
   }
