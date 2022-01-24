@@ -6,6 +6,11 @@ body{
 nav{
     background: #508cfc;
 }
+.img{
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
 h1{
 	font-size: 2em; 
 	font-weight: bold;
@@ -23,7 +28,10 @@ title{
     text-transform: uppercase;
 	text-align: center;
 }
-a:visited{color:#020308}
+.a{
+
+}
+
 
 ul {
     margin: 30px auto;
@@ -43,6 +51,7 @@ li {
   li:hover {
     color: #6fd5fa;
   }
+  a:visited{color:#020308}
   footer {
     color: #fff;
     background-color: #3ccbff;
@@ -53,8 +62,4 @@ li {
       padding: 20px;
   }
 
-  .img{
-    display: block;
-    margin: auto;
-    width: 50%;
-  }
+ 
