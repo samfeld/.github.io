@@ -14,10 +14,12 @@ title{
 }
 .active{
 	background: white;
+    border-radius: 5px;
     text-transform: uppercase;
 	text-align: center;
 }
-a:visited{color:#0000FF}
+a:visited{color:#020308}
+
 ul {
     margin: 30px auto;
     padding: 0 20px;
@@ -36,7 +38,11 @@ li {
     color: #6fd5fa;
   }
   footer {
-    background-color: #DBE9EE;
+    background-color: #bfeafa;
     text-align: center;
     height: 100px;
+  }
+
+  .image{
+      background-position: center;
   }
