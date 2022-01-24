@@ -37,6 +37,7 @@ li {
     font-size: 14px;
     text-transform: uppercase;
     display: inline-block;
+    margin: 20px;
     width: 80px;  
   }
   li:hover {
