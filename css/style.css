@@ -39,10 +39,19 @@ li {
     margin: 20px;
     width: 80px;  
   }
-  
+
   li:hover {
     color: #6fd5fa;
   }
+  .active{
+    background: white;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.a{
+
+}
 
   footer {
     color: #fff;
