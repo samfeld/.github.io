@@ -49,7 +49,9 @@ li {
     text-transform: uppercase;
     text-align: center;
 }
-
+a:visited{
+    color: #000
+}
   footer {
     color: #fff;
     background-color: #3ccbff;
