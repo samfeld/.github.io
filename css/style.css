@@ -1,10 +1,26 @@
 body{
     color: pink
 }
-
+h1{
+	font-size: 2em; 
+	font-weight: bold;
+}
 .active{
 	background: white;
     text-transform: uppercase;
 	text-align: center;
 }
 a:visited{color:#0000FF}
+
+li {
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 80px;  
+  }
+  li:hover {
+    color: #6fd5fa;
+  }
