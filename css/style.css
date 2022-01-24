@@ -1,5 +1,10 @@
-
-
-img{
-    height: 200px;
+body{
+    color: pink
 }
+
+.active{
+	background: white;
+    text-transform: uppercase;
+	text-align: center;
+}
+a:visited{color:#0000FF}
