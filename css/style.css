@@ -59,7 +59,7 @@ li:hover {
     color: #6fd5fa;
   }
   .active{
-    background: white;
+    background-color: white;
     border-radius: 2px;
     text-transform: uppercase;
     text-align: center;
