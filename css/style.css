@@ -14,7 +14,6 @@ img{
     border-radius: 2px;
     width:100px;
     height:100px;
-    object-fit: scale-down;
   }
   
 img:hover{
