@@ -14,6 +14,16 @@ img{
     border-radius: 2px;
     object-fit: 50% 50%;
   }
+  .column{
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+  }
+  .row::after{
+      content:"";
+      clear:both;
+      display:table;
+  }
 img:hover{
       opacity: 0.5;
   }
@@ -24,6 +34,7 @@ h1{
     margin: 20px;
 }
 h2{
+    font-size: 25px;
     margin: 20px;
 }
 
