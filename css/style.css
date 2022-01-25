@@ -18,11 +18,10 @@ img{
   }
   
 img:hover{
-    box-shadow: 10px 10px #7bfdff;
     opacity: 0.5;
 }
 
-  .images_container{
+.images_container{
       display: flex;
       justify-content: center;
   }
