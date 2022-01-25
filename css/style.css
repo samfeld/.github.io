@@ -6,7 +6,7 @@ body{
 nav{
     background: #508cfc;
 }
-.img{
+img{
     display: block;
     margin: auto;
     padding: 2px;
@@ -14,10 +14,11 @@ nav{
     border-radius: 2px;
     object-fit: 50% 50%;
   }
-.img:hover{
+img:hover{
       opacity: 0.5;
   }
 h1{
+    font-size: 45px;
 	font-weight: bold;
     text-align: center;
     margin: 20px;
