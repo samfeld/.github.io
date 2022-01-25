@@ -2,6 +2,7 @@ body{
     color: #FFF;
     background: skyblue;
     text-align: center;
+    width: 60%;
 }
 nav{
     background: #508cfc;
@@ -15,20 +16,18 @@ nav{
     border-radius: 2px;
     object-fit: 50% 50%;
   }
-  .img:hover{
+.img:hover{
       opacity: 0.5;
   }
 h1{
-	font-size: 2em; 
 	font-weight: bold;
     text-align: center;
+    margin: 20px;
 }
-title{
-    color: silver;
-    font-size: 32px;
-    font-weight: 300;
-    text-transform: uppercase;
+h2{
+    margin: 20px;
 }
+
 
 
 ul {
@@ -47,19 +46,20 @@ li {
     width: 80px;  
   }
 
-  li:hover {
+li:hover {
     color: #6fd5fa;
   }
   .active{
     background: white;
-    border-radius: 5px;
+    border-radius: 2px;
     text-transform: uppercase;
     text-align: center;
+    display: block;
 }
 a:visited{
     color: #000
 }
-  footer {
+footer {
     color: #fff;
     background-color: #3ccbff;
     text-align: center;
