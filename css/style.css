@@ -1,12 +1,12 @@
 body{
-    color: #FFF;
-    background: #87ceeb;
+    color: #000;
+    background: #fff;
     text-align: center;
     margin: 1%;
     line-height:1.15;
 }
 nav{
-    background: #508cfc;
+    background: #7bd8fd;
 }
 img{
     display: block;
