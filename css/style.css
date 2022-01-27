@@ -24,6 +24,9 @@ div{
     background-image: url("images/north_shore.jpeg");
 }
 
+.images_container{
+    display: grid;
+}
 img:hover{
     opacity: 0.5;
 }
