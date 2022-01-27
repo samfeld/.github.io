@@ -6,7 +6,7 @@ body{
     line-height:1.15;
 }
 nav{
-    background: #7bd8fd;
+    background: #c2dde6;
 }
 img{
     display: block;
@@ -18,7 +18,7 @@ img{
     min-height:100px;
   }
 div{
-    border: 3px solid navy;
+    border: 3px solid #c5d5cb;
 }
 #shoreline{
     background-image: url("images/north_shore.jpeg");
