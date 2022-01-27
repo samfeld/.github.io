@@ -20,7 +20,10 @@ img{
 div{
     border: 3px solid navy;
 }
-  
+#shoreline{
+    background-image: "images/north_shore.jpeg";
+}
+
 img:hover{
     opacity: 0.5;
 }
