@@ -24,8 +24,9 @@ div{
     background-image: url("images/north_shore.jpeg");
 }
 
-.images_container{
+.trails_container{
     display: grid;
+    grid-template: repeat(2, 1fr)/repeat(4, 1fr)
 }
 img:hover{
     opacity: 0.5;
