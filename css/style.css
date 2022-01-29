@@ -17,14 +17,14 @@ img{
     min-width:100px;
     min-height:100px;
   }
-div{
+.container{
     border: 3px solid #c5d5cb;
 }
 #shoreline{
     background-image: url("images/north_shore.jpeg");
 }
 
-.trails_container{
+.trails_images_container{
     display: grid;
     grid-template: repeat(2, 1fr)/repeat(4, 1fr)
 }
