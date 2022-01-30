@@ -19,6 +19,7 @@ img{
   }
 .container{
     border: 3px solid #c5d5cb;
+    margin-top: 20px;
 }
 #shoreline{
     background-image: url("images/north_shore.jpeg");
@@ -35,7 +36,7 @@ img:hover{
 .images_container{
       display: flex;
       justify-content: center;
-      padding: 5px;
+      
   }
 .images-container img{
     margin-left: 5px;
