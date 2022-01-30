@@ -17,7 +17,7 @@ img{
     min-width:100px;
     min-height:100px;
   }
-img:nth-child(even){
+img:nth-child(even):hover{
     box-shadow: 10px 10px 5px #d1caa4;
 }
 .container{
