@@ -53,16 +53,6 @@ img:hover{
     opacity: 0.5;
 }
 
-.logo img{
-    float: right;
-}
-
-.logo h2{
-    position: relative;
-    right: 10px;
-    display: inline;
-}
-
 .images_container{
       display: flex;
       justify-content: center;
