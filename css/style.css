@@ -49,6 +49,10 @@ img:nth-child(even):hover{
     display: grid;
     grid-template: repeat(2, 1fr)/repeat(4, 1fr)
 }
+
+.logo{
+    display: grid;
+}
 img:hover{
     opacity: 0.5;
 }
