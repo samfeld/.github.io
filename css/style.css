@@ -82,6 +82,10 @@ li {
     margin: 20px;
     width: 18%;  
   }
+  .logo{
+      text-align: center;
+      justify-content: center;
+  }
 
 li:hover {
     color: #6fd5fa;
