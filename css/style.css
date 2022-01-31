@@ -57,6 +57,7 @@ img:hover{
 }
 
 .images_container{
+    display: flex;
       justify-content: center;
       
   }
