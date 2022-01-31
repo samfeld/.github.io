@@ -30,6 +30,7 @@ img{
     padding: 0px;
     border: 4px solid #fff;
     border-radius: 2px;
+    text-align: center;
 
   }
 img:nth-child(even):hover{
