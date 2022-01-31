@@ -45,11 +45,14 @@ img:nth-child(even):hover{
     background-image: url("images/north_shore.jpeg");
 }
 
-.trails_images_container, .restaurants_images_container{
+.trails_images_container{
     display: grid;
     grid-template: repeat(2, 1fr)/repeat(4, 1fr)
 }
-
+.restaurants_images_container{
+    display: grid;
+    grid-template: 1fr 1fr/1fr 1fr;
+}
 img:hover{
     opacity: 0.5;
 }
