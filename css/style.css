@@ -61,8 +61,7 @@ img:hover{
 }
 
 .images_container{
-    display: flex;
-      justify-content: center;
+    justify-content: center;
       
   }
 .images-container img{
