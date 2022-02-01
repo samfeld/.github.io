@@ -110,6 +110,9 @@ li:hover {
 a:visited{
     color: #000;
 }
+#lous_link{
+    display:block;
+}
 footer {
     color: #404040;
     background-color: #c2dde6;
