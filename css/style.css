@@ -4,18 +4,21 @@ body{
     text-align: center;
     margin: 1%;
     line-height:1.15;
+    font-family: "Helvetica", 'Varela Round', sans-serif;
 }
 nav{
     background: #c2dde6;
 }
 main{
     padding: 1%;
+    
 }
 h1{
     font-size: 45px;
 	font-weight: bold;
     text-align: center;
     margin: 20px;
+
 }
 h2{
     font-size: 25px;
@@ -76,7 +79,7 @@ ul {
 
 li {
     color: #FFF;
-    font-family: 'Varela Round', sans-serif;
+    font-family: "Helvetica", 'Varela Round', sans-serif;
     font-size: 14px;
     display: inline-block;
     margin: 20px;
