@@ -8,6 +8,8 @@ body{
 }
 nav{
     background: #c2dde6;
+    justify-content: space-around;
+    align-content: space-around;
 }
 main{
     padding: 1%;
